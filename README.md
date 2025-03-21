@@ -36,7 +36,7 @@ Este curso visa ensinar os fundamentos da lógica de programação e algoritmos 
 
 1️⃣ **Clone este repositório:**  
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/lroberta569/CursoProgramacao.git
 ```
 2️⃣ Abra o projeto em sua IDE favorita
 
